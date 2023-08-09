@@ -1,1 +1,1 @@
-# brain_sprediction
+# stroke_prediction
